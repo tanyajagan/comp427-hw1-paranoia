@@ -22,7 +22,7 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Luggage|Fed|NSA|Sony}
 - Assumptions:
   - explain_your_assumptions
 - Assets:
@@ -36,7 +36,7 @@ please cut-and-paste the text from that email here._
   - explanatory_paragraph ...
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {Luggage|Fed|NSA|Sony}
 - Assumptions:
   - explain_your_assumptions
 - Assets:
@@ -62,4 +62,11 @@ please cut-and-paste the text from that email here._
 - Countermeasures:
   - explanatory_paragraph
   - explanatory_paragraph ...
+
+## Problem 4
+- Prevention example
+- Detection example
+- Recovery example
+- Authentication example
+- Availability example
 
