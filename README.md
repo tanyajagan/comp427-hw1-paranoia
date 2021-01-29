@@ -1,8 +1,8 @@
-# <img src="http://www.rice.edu/_images/rice-logo.jpg" width=180> Comp427, Spring 2018, Homework 1
+#Comp427, Spring 2021, Homework 1 <img src="https://brand.rice.edu/sites/g/files/bxs2591/files/2019-08/190308_Rice_Mechanical_Brand_Standards_Logos-7.png">
 ## Rational Paranoia
 The homework specifications, as well as the corresponding course slide decks,
-can be found on the [Comp427 Piazza](https://piazza.com/class/jqifhp864b37ju).
-This assignment is due **Thursday, January 17 at 6 p.m.**
+can be found on the [Comp427 Piazza](https://piazza.com/class/kk7ghcy8vjwuu)
+This assignment is due **Thursday, February 11 at 6 p.m.**
 
 You will do this homework by editing the _README.md_ file. It's in
 [MarkDown format](https://guides.github.com/features/mastering-markdown/)
