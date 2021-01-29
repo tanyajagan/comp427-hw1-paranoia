@@ -1,4 +1,4 @@
-#Comp427, Spring 2021, Homework 1 <img src="https://brand.rice.edu/sites/g/files/bxs2591/files/2019-08/190308_Rice_Mechanical_Brand_Standards_Logos-7.png">
+# <img src="https://brand.rice.edu/sites/g/files/bxs2591/files/2019-08/190308_Rice_Mechanical_Brand_Standards_Logos-7.png">  Comp427, Spring 2021, Homework 1
 ## Rational Paranoia
 The homework specifications, as well as the corresponding course slide decks,
 can be found on the [Comp427 Piazza](https://piazza.com/class/kk7ghcy8vjwuu)
