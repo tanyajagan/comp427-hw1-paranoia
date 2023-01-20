@@ -64,10 +64,10 @@ please cut-and-paste the text from that email here._
   
 ## Problem 4
 
-4.  (5pts) For each of the following statements, give an example of a
-    situation in which the statement is true (or, if you prefer, where
-    at least some real-world people seem to believe that this statement
-    is true; explain why they're wrong).
+For each of the following statements, give an example of a
+situation in which the statement is true (or, if you prefer, where
+at least some real-world people seem to believe that this statement
+is true; explain why they're wrong).
 
   - Prevention is more important than detection and recovery
   
